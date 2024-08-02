@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokemoncards/static/css/main.db00076f.css",
+    "main.js": "/pokemoncards/static/js/main.cdd847e2.js",
+    "static/media/logo.png": "/pokemoncards/static/media/logo.3f48252ff9e972470a63.png",
+    "index.html": "/pokemoncards/index.html",
+    "main.db00076f.css.map": "/pokemoncards/static/css/main.db00076f.css.map",
+    "main.cdd847e2.js.map": "/pokemoncards/static/js/main.cdd847e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db00076f.css",
+    "static/js/main.cdd847e2.js"
+  ]
+}
